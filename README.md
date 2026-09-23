@@ -27,7 +27,7 @@ install.sh              # копирует всё в ~/.config/opencode
 ## Установка
 
 ```bash
-git clone https://github.com/<you>/opencode-exa-websearch.git
+git clone https://github.com/nohau1/opencode-exa-websearch.git
 cd opencode-exa-websearch
 ./install.sh
 ```
